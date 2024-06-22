@@ -1,3 +1,6 @@
 ## Enchantments
 enchantment.protect.all=§d§lProtection
 enchantment.damage.all=§d§lSharpness
+
+## Containers
+container.crafting=
